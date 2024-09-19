@@ -4,7 +4,7 @@ bem-vindo
 
 estou estudando na [alura](https://cursos.alura.com.br/loginForm)
 
-eu tenho 15 anos, estudo no colegio Adolpho De Oliveira Franco, estou no primeiro ano do ensino médio, moro em astorga-paraná.
+eu tenho 15 anos, estudo no colegio Adolpho De Oliveira Franco, estou no primeiro ano do ensino médio, moro em astorga-paraná. Eu pretendo para o meu futuro estar formada em Educação Fisica e conseguir ter uma boa renda financeira.
 
 ###você pode entrar em contato comigo em @maller.almeida@escola.pr.gov.br
 
